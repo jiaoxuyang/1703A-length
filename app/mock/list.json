@@ -1,0 +1,50 @@
+[{
+        "spuName": "进口柑",
+        "weight": "约450g",
+        "price": "9.90",
+        "count": 0,
+        "id": 1
+    },
+    {
+        "spuName": "红李",
+        "weight": "约900g",
+        "price": "7.20",
+        "count": 0,
+        "id": 2
+    },
+    {
+        "spuName": "京欣西瓜",
+        "weight": "1粒",
+        "price": "19.99",
+        "count": 0,
+        "id": 3
+    },
+    {
+        "spuName": "金针菇【精】",
+        "weight": "约400g",
+        "price": "1.98",
+        "count": 0,
+        "id": 4
+    },
+    {
+        "spuName": "菠菜【袋】",
+        "weight": "约350g",
+        "price": "2.90",
+        "count": 0,
+        "id": 5
+    },
+    {
+        "spuName": "胡萝卜【精】",
+        "weight": "约400g",
+        "price": "2.90",
+        "count": 0,
+        "id": 6
+    },
+    {
+        "spuName": "香肠【袋】",
+        "weight": "约500g",
+        "price": "10.00",
+        "count": 0,
+        "id": 7
+    }
+]
