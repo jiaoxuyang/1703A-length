@@ -6,11 +6,15 @@ Vue.use(Vuex)
 
 export default new Vuex.Store({
   state: {
-    list:[]
+    list:[],
+    detail:[]
   },
   mutations: {
     getData(state,content){
       state.list = content
+    },
+    getDetail(state,id){
+      state.detail = state.list.filter(item => item.id == id)
     }
   },
   actions: {

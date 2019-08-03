@@ -25,6 +25,10 @@ export default new Router({
       path:"/my",
       component:()=> import("./views/my/")
     }]
+    },
+    {
+      path:"/detail:id",
+      component:()=> import("./views/detail/")
     }
   ]
 })
